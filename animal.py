@@ -12,6 +12,7 @@ def fun():
 
 def newfunction():
     print("I am a new function")
+    print("hey")
 
 
 def main():
