@@ -1,9 +1,14 @@
 #create a python function
-def fun():
-    print("I am a cat")
+# def fun():
+    # print("I am a cat")
+    
+def dog():
+    print("I am a dog")
+    print("baw")
 
 def main():
-    fun()
+    # fun()
+    dog()
 
 if __name__ == "__main__":
     main()
