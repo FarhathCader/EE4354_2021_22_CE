@@ -10,9 +10,17 @@ def fun():
     print("I am a cat")
     print("meow meow")
 
+
 def newfunction():
     print("I am a new function")
     print("hey")
+
+
+def newfunction2():
+    print("I am a new function 2")
+
+
+
 
 
 def main():
